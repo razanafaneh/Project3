@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-24T12:49:09 AST" name="Default suite" finished-at="2023-10-24T12:49:19 AST" duration-ms="10830">
+    <groups>
+    </groups>
+    <test started-at="2023-10-24T12:49:09 AST" name="Default test" finished-at="2023-10-24T12:49:19 AST" duration-ms="10830">
+      <class name="swaglab.Login">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:09 AST" name="mySetup" finished-at="2023-10-24T12:49:10 AST" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithPerformanceUser()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:10 AST" name="LoginWithPerformanceUser" finished-at="2023-10-24T12:49:13 AST" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithPerformanceUser -->
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:13 AST" name="mySetup" finished-at="2023-10-24T12:49:13 AST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithProblemUser()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:13 AST" name="LoginWithProblemUser" finished-at="2023-10-24T12:49:16 AST" duration-ms="3204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithProblemUser -->
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:16 AST" name="mySetup" finished-at="2023-10-24T12:49:16 AST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithStandardUSer()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:16 AST" name="LoginWithStandardUSer" finished-at="2023-10-24T12:49:19 AST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithStandardUSer -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:swaglab.Login@6bb75258]" started-at="2023-10-24T12:49:19 AST" name="myPostTesting" finished-at="2023-10-24T12:49:19 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+      </class> <!-- swaglab.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
